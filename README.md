@@ -1,6 +1,6 @@
 # **HR Data Analytics Dashboard**
 
-This project demonstrates the use of **MS SQL Server**, **SQL Server Management Studio (SSMS)**, and **Power BI** to create a comprehensive and interactive **HR analytics dashboard**.
+This project demonstrates the development of a comprehensive **HR analytics dashboard** designed to analyze workforce data and provide actionable insights for better decision-making. By combining **SQL** for data cleaning and transformation with **Power BI** for visualization, the project showcases the ability to extract meaningful trends and patterns from raw **HR datasets** using **MS SQL Server** and **SQL Server Management Studio (SSMS)**.
 
 ---
 
